@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Genetic Correlations in Aging-Related Diseases: Colocalization and Enrichment Analysis
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this study, we explore the connections underlying common genetic diseases, specifically age-related conditions. We aim to find which genetic processes are most important for these diseases. We use Colocalization and Gene Set Enrichment Analysis (GSEA) to pinpoint enriched gene sets and disease mechanisms. By comparing output of these techniques given large genetic datasets for age-related diseases and unrelated control diseases, we can piece together an overview of how different diseases are linked and what mechanisms, known and unknown, may be at play in aging-related disease. We hope that finding evidence in this manner reinforces the significance of colocalization and gene set enrichment analysis as indispensable tools for genetic discovery.
